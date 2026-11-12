@@ -1,0 +1,4 @@
+BASE OK bubbls/UGS-Assets@51ee800b96cdf6e2584a827d3188c2fae97f940a/bounce back -> bounceback
+BASE REWRITE bounceback
+BASE OK bubbls/UGS-Assets@main/bouncy-basketbal -> bouncybasketball
+BASE REWRITE bouncybasketball
